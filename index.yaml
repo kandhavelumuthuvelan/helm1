@@ -2,12 +2,21 @@ apiVersion: v1
 entries:
   newapp:
   - apiVersion: v1
+    appVersion: "2.0"
+    created: "2019-09-23T07:18:14.938598347Z"
+    description: A Helm chart for Kubernetes
+    digest: 75f921b8161b47d4087a47b715a5540139499df7e55425d5aa4bab3c4f7e0566
+    name: newapp
+    urls:
+    - https://kandhavelumuthuvelan.github.io/helm1/newapp-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-09-23T07:00:51.290629894Z"
+    created: "2019-09-23T07:18:14.938365551Z"
     description: A Helm chart for Kubernetes
     digest: 6fcc59b53cdf319e6cd16d50b7e3e6258d2657659606733006d71fe73e203240
     name: newapp
     urls:
     - https://kandhavelumuthuvelan.github.io/helm1/newapp-0.1.0.tgz
     version: 0.1.0
-generated: "2019-09-23T07:00:51.289077724Z"
+generated: "2019-09-23T07:18:14.938032686Z"
